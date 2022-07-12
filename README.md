@@ -17,7 +17,6 @@ This application is written using [Flutter](https://flutter.dev/)
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Notes](#notes)
 - [License](#license)
 - [Version History](#version)
 - [Contributing](#contributing)
@@ -38,8 +37,6 @@ This application is written using [Flutter](https://flutter.dev/)
 - Open Terminal in folder directory
 - Open an Adroid Simulator or iOS Simulator
 - Run`flutter run`
-
-## Notes
 
 ## This app achieves:
 
