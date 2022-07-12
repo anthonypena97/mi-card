@@ -1,4 +1,4 @@
-#Mon Jul 11 15:40:23 EDT 2022
+#Tue Jul 12 10:47:51 EDT 2022
 base.0=/Users/anthonypena/Desktop/Splice/work/flutter/MiCard/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
