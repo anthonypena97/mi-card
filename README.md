@@ -17,6 +17,7 @@ This application is written using [Flutter](https://flutter.dev/)
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Notes](#notes)
 - [License](#license)
 - [Version History](#version)
 - [Contributing](#contributing)
@@ -38,7 +39,9 @@ This application is written using [Flutter](https://flutter.dev/)
 - Open an Adroid Simulator or iOS Simulator
 - Run`flutter run`
 
-## This app achieves:
+## Notes
+
+### This app achieves:
 
 * How to create Stateless Widgets
 * What is the difference between hot reload and hot refresh and running an app from cold
